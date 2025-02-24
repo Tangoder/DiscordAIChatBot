@@ -1,0 +1,19 @@
+project_root/              # 專案根目錄
+├── discord_ai_bot/       # 程式碼目錄
+│   ├── config/
+│   │   └── config.py
+│   ├── models/
+│   │   ├── base.py
+│   │   ├── claude.py
+│   │   └── gemini.py
+│   ├── bot/
+│   │   ├── bot.py
+│   │   └── chat.py
+│   ├── utils/
+│   │   ├── logger.py
+│   │   └── exceptions.py
+│   └── main.py
+├── venv/                 # 虛擬環境目錄(建立後會出現)
+├── .env                  # 環境變數檔案
+├── .env.example         # 環境變數範例
+└── requirements.txt     # 依賴套件清單 

@@ -1,0 +1,13 @@
+Discord Bot Token:
+前往 https://discord.com/developers/applications
+點擊 "New Application"
+在 "Bot" 分頁中建立新的bot
+複製 Token
+Claude API Key:
+前往 https://console.anthropic.com/
+註冊/登入帳號
+在 API Keys 頁面建立新的金鑰
+Gemini API Key:
+前往 https://makersuite.google.com/
+註冊/登入Google帳號
+在 API Keys 頁面建立新的金鑰

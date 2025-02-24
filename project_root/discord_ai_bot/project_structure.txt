@@ -1,0 +1,14 @@
+discord_ai_bot/
+├── config/
+│   └── config.py       # 設定檔
+├── models/
+│   ├── base.py         # AI模型基礎類別
+│   ├── claude.py       # Claude 整合
+│   └── gemini.py       # Gemini 整合
+├── bot/
+│   ├── bot.py          # Discord bot 主程式
+│   └── chat.py         # 聊天邏輯處理
+├── utils/
+│   ├── logger.py       # 日誌工具
+│   └── exceptions.py   # 自訂例外處理
+└── main.py             # 程式進入點 
